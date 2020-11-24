@@ -63,6 +63,10 @@ topics:
     web_url: https://github.com/topics/git
     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/git/git.png
 
+  - name: Bootstrap
+    web_url: https://github.com/topics/bootstrap
+    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/bootstrap/bootstrap.png
+
   # - name: Node.js
   #   web_url: https://github.com/topics/nodejs
   #   image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/nodejs/nodejs.png
@@ -70,3 +74,7 @@ topics:
   # - name: npm
   #   web_url: https://github.com/topics/npm
   #   image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/npm/npm.png
+
+  # - name: JSON
+  #   web_url: https://github.com/topics/json
+  #   image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/json/json.png

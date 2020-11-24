@@ -59,6 +59,10 @@ topics:
     web_url: https://github.com/topics/javascript
     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/javascript/javascript.png
 
+  - name: Firebase
+    web_url: https://github.com/topics/firebase
+    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/firebase/firebase.png
+
   - name: Git
     web_url: https://github.com/topics/git
     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/git/git.png
@@ -86,3 +90,8 @@ topics:
   - name: Kubernetes
     web_url: https://github.com/topics/kubernetes
     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/kubernetes/kubernetes.png
+
+  - name: Material Design
+    web_url: https://github.com/topics/material-design
+    image_url: https://raw.githubusercontent.com/github/explore/ae6b22689282e8e8c3c43f9e82a0e80ff83423b6/topics/material-design/material-design.png
+

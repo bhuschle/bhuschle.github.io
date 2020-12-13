@@ -26,9 +26,6 @@ projects:
         forks: true
         projects:
             # - repo-name
-            - CustomerSavingsCalculator
-            - Bankist-Welcome-Page
-            - Bankist-Accounts
 
 social_media:
     # behance: your_username

@@ -1,3 +1,5 @@
+[![Brandon's github activity graph](https://activity-graph.herokuapp.com/graph?username=bhuschle&theme=gruvbox)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 # Get started building your personal website
 
 ### Showcase your software development skills
